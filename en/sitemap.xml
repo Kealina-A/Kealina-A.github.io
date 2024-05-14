@@ -2,263 +2,263 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/page/about/</loc>
+    <loc>https://Kealina-A.github.io/en/page/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/page/about/"
+                href="https://Kealina-A.github.io/de/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/page/about/"
+                href="https://Kealina-A.github.io/en/page/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="http://localhost:1313/dy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/emoji/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/blog/emoji-support/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/page/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/page/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://Kealina-A.github.io/en/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://Kealina-A.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="https://Kealina-A.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="http://localhost:1313/dy/tags/"
+                href="https://Kealina-A.github.io/dy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://Kealina-A.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://Kealina-A.github.io/en/blog/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/css/"
+                href="https://Kealina-A.github.io/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/css/"
+                href="https://Kealina-A.github.io/en/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://Kealina-A.github.io/en/tags/emoji/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/html/"
+                href="https://Kealina-A.github.io/de/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/html/"
+                href="https://Kealina-A.github.io/en/tags/emoji/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://Kealina-A.github.io/en/blog/emoji-support/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/markdown/"
+                href="https://Kealina-A.github.io/de/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/markdown/"
+                href="https://Kealina-A.github.io/en/blog/emoji-support/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://Kealina-A.github.io/en/page/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/blog/markdown-syntax/"
+                href="https://Kealina-A.github.io/de/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/markdown-syntax/"
+                href="https://Kealina-A.github.io/en/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/blog/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/blog/placeholder-text/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/privacy/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/blog/rich-content/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/shortcodes/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/blog/test/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/blog/test2/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/text/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://Kealina-A.github.io/en/tags/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://Kealina-A.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                href="https://Kealina-A.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="http://localhost:1313/dy/categories/"
+                href="https://Kealina-A.github.io/dy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://Kealina-A.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/tags/css/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/tags/css/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/tags/html/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/tags/html/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/tags/markdown/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/blog/markdown-syntax/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/blog/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/blog/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/blog/math-typesetting/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/blog/placeholder-text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/blog/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/blog/placeholder-text/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/tags/privacy/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/tags/privacy/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/blog/rich-content/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/blog/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/blog/rich-content/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/tags/shortcodes/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/blog/test/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/blog/test2/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/tags/text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/tags/text/"
+                />
+  </url><url>
+    <loc>https://Kealina-A.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Kealina-A.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Kealina-A.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://Kealina-A.github.io/dy/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Kealina-A.github.io/en/categories/"
                 />
   </url>
 </urlset>

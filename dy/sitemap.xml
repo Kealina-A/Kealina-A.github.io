@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dy/</loc>
+    <loc>https://Kealina-A.github.io/dy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://Kealina-A.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://Kealina-A.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="https://Kealina-A.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="http://localhost:1313/dy/"
+                href="https://Kealina-A.github.io/dy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dy/categories/</loc>
+    <loc>https://Kealina-A.github.io/dy/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://Kealina-A.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://Kealina-A.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                href="https://Kealina-A.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="http://localhost:1313/dy/categories/"
+                href="https://Kealina-A.github.io/dy/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dy/tags/</loc>
+    <loc>https://Kealina-A.github.io/dy/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://Kealina-A.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://Kealina-A.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="https://Kealina-A.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="http://localhost:1313/dy/tags/"
+                href="https://Kealina-A.github.io/dy/tags/"
                 />
   </url>
 </urlset>
